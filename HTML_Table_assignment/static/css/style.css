@@ -1,0 +1,16 @@
+
+.container{
+    
+    background-color: #A37B5C;
+    color: aliceblue;
+    justify-content:center;
+    
+}
+.box{
+    margin-left: 500px;
+}
+
+tr:hover {
+    background-color: red;
+}
+
